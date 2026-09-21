@@ -102,18 +102,18 @@ export const projects: Project[] = [
     //image: "projects/portfolio.jpg",
   //},
   {
-    slug: "milimani-guest-house-nakuru",
-    title: "Milimani Guest House - Botique Hotel Website",
+    slug: "sungura-villa-nakuru",
+    title: "Sungura Villa - A botique hotel in Nakuru",
     description: 
-    "High-converting botique hotel website for Milimani House, Nakuru. Built to turn Google searches into direct bookings and cut Booking.com commissions. Features responsive overlay hero, dark-mode booking form with visible input handling, food and room galleries. Focused on direct leads via WhatsApp/Email.",
+    "High-converting botique hotel website for Sungura Villa, Nakuru. Built to turn Google searches into direct bookings and cut Booking.com commissions. Features responsive overlay hero, dark-mode booking form with visible input handling, food and room galleries. Focused on direct leads via WhatsApp/Email.",
     category: "Hospitality website",
     tags:["HTML5", "CSS3", "JavaScript", "Responsive Design", "Hotel booking UI"],
     year: "2026",
-    githubUrl: "https://github.com/navajkerrie-sys/nakuru-milimani-guest-house",
-    liveUrl: "https://navajkerrie-sys.github.io/nakuru-milimani-guest-house/",
+    githubUrl: "https://github.com/navajkerrie-sys/sungura-villa",
+    liveUrl: "https://navajkerrie-sys.github.io/sungura-villa/",
     featured: true,
     accent: "indigo",
-    image: "/milimani-house.jpg",
+    image: "/sungura-villa.jpg",
   },
 ];
 
