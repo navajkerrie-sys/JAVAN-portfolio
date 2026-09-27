@@ -115,6 +115,20 @@ export const projects: Project[] = [
     accent: "indigo",
     image: "/sungura-villa.jpg",
   },
+  {
+    slug: "avans-branding-company",
+    title: "Avans Branding Company - My Own Branding Agency",
+    description:
+    "Official website for my own branding agency, Avans Branding Company, based in Nakuru. I founded Avans to help businesses grow with bold branding and high converting websites. I designed and designed this website from scartch to showcase our services and turn visitors into paying clients.",
+    category: "My Branding Company",
+    tags:["My Own Brand", "Branding Agency", "HTML5", "CSS", "JavaScript", "Founder Project"],
+    year: "2026",
+    githubUrl: "https://github.com/navajkerrie-sys/Avans-Branding-Company",
+    liveUrl: "https://navajkerrie-sys.github.io/Avans-Branding-Company/",
+    featured: true,
+    accent: "indigo",
+    image: "/avans-branding.jpg",
+  },
 ];
 
 export type Service = {
