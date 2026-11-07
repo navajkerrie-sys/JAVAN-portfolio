@@ -74,6 +74,20 @@ export type Project = {
  */
 export const projects: Project[] = [
   {
+    slug: "fika-and-feast-restaurant",
+    title: "Fika & Feast - A restaurant website",
+    description:
+      "High-converting restaurant website for Fika & Feast, a fine dining restaurant in Nairobi. Built to showcase the menu, food gallery, and drive reservations with modern dark UI and animations.",
+    category: "Restaurant Website",
+    tags: ["HTML5", "CSS3", "JavaScript", "Responsive Design", "Restaurant UI"],
+    year: "2026",
+    githubUrl: "https://github.com/navajkerrie-sys/Fika-And-Feast-Restaurant",
+    liveUrl: " https://navajkerrie-sys.github.io/Fika-feast/",
+    featured: true,
+    accent: "indigo",
+    image: "/fika-and-feast-restaurant.jpg",
+  },
+  {
     slug: "fibre-internet-provider",
     title: "FIBRE. -ISP Landing Page",
     description:
@@ -101,6 +115,20 @@ export const projects: Project[] = [
     //featured: true,
     //image: "projects/portfolio.jpg",
   //},
+  {
+    slug: "aubergine-restaurant",
+    title: "Aubergine Restaurant - A restaurant website",
+    description:
+      "High-converting restaurant website for Aubergine, a fine dining restaurant in Nairobi. Built to showcase the menu, food gallery, and drive reservations with modern dark UI and animations.",
+    category: "Restaurant Website",
+    tags:["HTML5", "CSS3", "JavaScript", "Responsive Design", "Restaurant UI"],
+    year: "2026",
+    githubUrl: "https://github.com/navajkerrie-sys/Aubergine-Restaurant",
+    liveUrl: "https://navajkerrie-sys.github.io/Aubergine-Restaurant/",
+    featured: true,
+    accent: "indigo",
+    image: "/aubergine-restaurant.jpg",
+  },
   {
     slug: "sungura-villa-nakuru",
     title: "Sungura Villa - A botique hotel in Nakuru",
